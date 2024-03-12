@@ -61,7 +61,7 @@ a {
 }
 
 .caption::after {
-  content: '3d-collectors-exp';
+  content: '3d-connectors-exp';
 }
 
 .button {

@@ -29,9 +29,6 @@ export const App = () => (
       <div />
       <span className="caption" />
       <div />
-      <a href="https://lusion.co/">
-        <div className="button">VISIT LUSION</div>
-      </a>
       <div className="button gray">///</div>
     </div>
     <Scene style={{ borderRadius: 20 }} />
